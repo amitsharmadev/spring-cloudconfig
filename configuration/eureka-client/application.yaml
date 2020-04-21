@@ -1,3 +1,4 @@
 config:
    server:
      prop-key: SomeData Added
+     new-key: AnotherData Inserted
